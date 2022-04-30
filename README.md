@@ -1,2 +1,2 @@
-# sexy-photo
+# -photo
 存涩图罢了
